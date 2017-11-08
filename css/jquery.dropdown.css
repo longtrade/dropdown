@@ -1,0 +1,7 @@
+.jq-dropdown {
+  border: 1px solid red;
+  display: inline-block;
+}
+.jq-dropdown select {
+  /*width: 100% !important;*/
+}
